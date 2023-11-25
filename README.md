@@ -5,12 +5,11 @@ This repository demonstrates various data visualizations using Bokeh, a Python i
 
 ## Installation
 To run the code, make sure you have Bokeh installed. You can install it using the following command:
-
-** bash **
+"
 pip install bokeh
 Bokeh Version
 Ensure you have Bokeh version 3.2.2 installed by running:
-
+"
 python
 Copy code
 import bokeh
